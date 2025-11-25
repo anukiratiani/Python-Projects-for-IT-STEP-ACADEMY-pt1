@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
 ### Guess the Number თამაში
 
 -  ეს არის Python-ის კონსოლ აპლიკაცია, სადაც მოთამაშემ უნდა გამოიცნოს ჩაფიქრებული რიცხვი. 
