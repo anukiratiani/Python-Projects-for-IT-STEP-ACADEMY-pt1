@@ -36,4 +36,4 @@ It includes console applications demonstrating basic Python skills, user interac
 |---------|--------|--------|
 | Guess the Number | Complete | დასრულებულია |
 | Translator | Complete | დასრულებულია |
-| Student Management System | ⚙️ In Progress | მიმდინარეობს |
+| Student Management System | In Progress | მიმდინარეობს |
