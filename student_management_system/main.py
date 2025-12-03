@@ -308,7 +308,7 @@ class StudentManagementSystem:
                 self.lecturer_portal(user)
                 break
             else:
-                print("✗ არასწორი მეილი ან პაროლი!")
+                print("არასწორი მეილი ან პაროლი!")
                 retry = input("გსურთ ხელახლა ცდა? (y/n): ").strip().lower()
                 if retry != 'y':
                     print("მომხმარებელი სისტემიდან გასულია!")
