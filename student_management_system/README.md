@@ -44,4 +44,5 @@ UTF-8 ენკოდინგი: ქართული ტექსტის �
 ![Student Management System Screenshot](img1.PNG)
 
 2) ლექტორის პორტალი
+
 ![Student Management System Screenshot](img2.PNG)
