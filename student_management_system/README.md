@@ -41,4 +41,4 @@ UTF-8 ენკოდინგი: ქართული ტექსტის �
 
 მაგალითები:
 1) სტუდენტის პორტალი
-![Student Management System Screenshot](Python-Projects-for-IT-STEP-ACADEMY-pt1/student_management_system/img1.PNG)
+![Student Management System Screenshot](img1.PNG)
