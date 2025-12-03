@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
 # Student Management System
 
 სტუდენტების მართვის სისტემა არის Python-ზე დაწერილი აპლიკაცია, რომელიც პორტალზე მუშაობის საშუალებას აძლევს ლექტორებსა და სტუდენტებს.
